@@ -33,7 +33,7 @@ local CMD_EGG    = "购买蛋"
 local OrderedEggNames = {
     "Plain Egg","Mud Egg","Speckled Egg","Hydro Egg",
     "Tentacle Egg","Frost Egg","Demon Egg","Horn Egg","Cacti Egg",
-    "Volt Egg","Plume Egg" -- NEW
+    "Volt Egg","Plume Egg","Tiger Egg"
 }
 
 local EggList = {
@@ -48,6 +48,7 @@ local EggList = {
     ["Cacti Egg"]="Egg_7000009",
     ["Volt Egg"]="Egg_7000010",
     ["Plume Egg"]="Egg_7000011"
+    ["Tiger Egg"]="Egg_7000012"
 }
 
 --[[ UI TABS ]]
