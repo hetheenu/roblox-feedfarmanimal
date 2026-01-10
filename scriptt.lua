@@ -47,7 +47,7 @@ local EggList = {
     ["Horn Egg"]="Egg_7000008",
     ["Cacti Egg"]="Egg_7000009",
     ["Volt Egg"]="Egg_7000010",
-    ["Plume Egg"]="Egg_7000011"
+    ["Plume Egg"]="Egg_7000011",
     ["Tiger Egg"]="Egg_7000012"
 }
 
